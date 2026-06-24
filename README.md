@@ -1,6 +1,8 @@
 ## Hi there! this my new project
 Welcome to the Bingo App Deployment project! This project demonstrates how to deploy a Bingo application using modern DevOps tools and practices, following a DevSecOps approach.
 
+
+
 ## 🛠️ **Tools & Services Used**
 
 | **Category**       | **Tools**                                                                                                                                                                                                 |
@@ -25,30 +27,6 @@ Welcome to the Bingo App Deployment project! This project demonstrates how to de
 - Deploy the application to an **Amazon EKS (Elastic Kubernetes Service)** cluster.
 - Set up **Prometheus** and **Grafana** for monitoring and visualization.
 - Implement **Trivy** for vulnerability scanning and **OWASP** for security best practices.
-
----
-
-## 📂 **Code Repository**
-Explore the code and contribute to the project:  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aseemakram19/bingo1.git)
-
----
-## 📹 **Project Video**
-Watch the step-by-step deployment process:  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HeGnExuCVmQ&t=616s)
-
----
-## 🚀 **Other DevOps Projects**
-
-| **Project**                                | **Video Link**                                                                                   |
-|--------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **JAVA APPLICATION DEPLOYMENT Project**                     | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=R98DHKqAEos) |
-
-## 🤝 **Connect with Me**
-
-Let's connect and discuss DevOps!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aseem-akram/)  
 
 The objective of this project was to learn how to use web sockets and how to create a multiplayer game. It was created using Next.js, React and Sockets.io. You can check it out  for the English version. Feel free to modify as you wish.
 
